@@ -1,3 +1,6 @@
 yhfekjhfaeiulaiufhailuh
+<<<<<<< HEAD
 unko
-aaa
+=======
+unko aabb
+>>>>>>> master
